@@ -9,7 +9,7 @@ public class Main {
       //loadEmails(trainData);
       System.out.println(trainData.getName());
       File emails[] = trainData.listFiles();
-      System.out.println(emails);
+      System.out.println(emails );
       for (int i = 0; i < emails.length; i++) {
 
         System.out.println(emails[i]);
