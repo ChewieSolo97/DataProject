@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println(emails[i]);
 
-      }
+      } 
     }
 
   static public void loadEmails(File folder) {
